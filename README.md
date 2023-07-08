@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///private/var/folders/j5/4kny536n3jg10f0bk62bmm300000gn/T/eb1b8179eb30aa1a31278e3923ac7915/Kapture%202023-07-07%20at%2017.09.55.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) 
