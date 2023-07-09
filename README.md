@@ -1,6 +1,6 @@
 # Prework - *Background Randomiser*
 
-Submitted by: **Dafne Gonzalez*
+Submitted by: **Dafne Gonzalez**
 
 **Background Randomiser** is an app that displays my name, university, and aspiring career while allowing the user to tap the 'Change' button to randomly assign a background color. When the user is done changing the color they can hit 'Reset' to bring the background back to white. A smiley face will display when the user resets the color. 
 
@@ -28,27 +28,28 @@ GIF created with [Kap](https://getkap.co/)
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-1. Tiktok 
-    a. Endless amount of videos 
-    b. The 'save' feature 
-    c. Easy to share videos with friends 
+Tiktok - 
+1. Endless amount of videos 
+2. The 'save' feature 
+3. Easy to share videos with friends 
     
-2. Venmo 
-    a. List of transactions 
-    b. QR code to easily find profiles 
-    c. Navigation is simple 
+Venmo - 
+1. List of transactions 
+2. QR code to easily find profiles 
+3. Navigation is simple 
 
-3. Messages
-    a. Can pin conversations 
-    b. Search feature 
-    c. Can assign contact pics 
-    d. Can recover deleted messages
-    e. Additional apps integrated (Games, music, apple pay)
+Messages - 
+1. Can pin conversations 
+2. Search feature 
+3. Can assign contact pics 
+4. Can recover deleted messages
+5. Additional apps integrated (Games, music, apple pay)
     
     
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 The most challenging encounter was adding the image assest and building the 'reset' function. 
 
 
