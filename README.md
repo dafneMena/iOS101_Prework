@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ5cHJnYTg2Ynptb2dqb296YXNkZnBvcTZrdHNnd3NsanYzMnJ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76ZTvEOMoVp9rAtYB0/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) 
@@ -27,10 +28,29 @@ GIF created with [Kap](https://getkap.co/)
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+1. Tiktok 
+    a. Endless amount of videos 
+    b. The 'save' feature 
+    c. Easy to share videos with friends 
+    
+2. Venmo 
+    a. List of transactions 
+    b. QR code to easily find profiles 
+    c. Navigation is simple 
 
+3. Messages
+    a. Can pin conversations 
+    b. Search feature 
+    c. Can assign contact pics 
+    d. Can recover deleted messages
+    e. Additional apps integrated (Games, music, apple pay)
+    
+    
 ## Notes
 
 Describe any challenges encountered while building the app.
+The most challenging encounter was adding the image assest and building the 'reset' function. 
+
 
 ## License
 
