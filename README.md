@@ -50,7 +50,7 @@ Messages -
 
 Describe any challenges encountered while building the app.
 
-The most challenging encounter was adding the image assest and building the 'reset' function. 
+The most challenging encounter was adding the image asset and building the 'reset' function. 
 
 
 ## License
